@@ -1,1 +1,1 @@
-This is a git repo
+Program takes in 10 ints and stores them in an array. Then uses pointers to print the reverse.
